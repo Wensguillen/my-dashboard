@@ -1,6 +1,7 @@
-# my-dashboard
-mi primer repositorio en github: NOTAS DE ESTUDIOS 
-"El uso de guiones medios como un separador de palabras"
-* para nombrar archivos y carpetas, especialmente en la web (conocido como kebab-case)
-* compatibilidad en URLs y herramientas.
-* busqueda y filtrado.
+<h1> sistema de registro</h1>
+
+-Estado del proyecto: En construcción.
+
+Para ejecutar el sistema, debes poner:
+
+npm install react
